@@ -13,10 +13,19 @@
     "@types/react": "18.2.7",
     "@types/react-dom": "18.2.4",
     "eslint": "8.41.0",
+    "axios": "^1.4.0",
     "eslint-config-next": "13.4.4",
+    "primeflex": "^3.3.0",
+    "primeicons": "^6.0.1",
+    "primereact": "^8.7.3",
     "next": "13.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "5.0.4"
+    "react-router-dom": "^6.11.2",
+    "typescript": "5.0.4",
+    "formik": "^2.4.0",
+    "xlsx": "^0.18.5",
+    "sass": "^1.62.1",
+    "yup": "^1.2.0"
   }
 }
